@@ -40,7 +40,7 @@ public class Main {
         // output die roll
         System.out.printf("Die: %d\n",x);
 
-        // return value of die rolla
+        // return value of die roll
         return x;
     }
 }
